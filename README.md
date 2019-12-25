@@ -1,5 +1,4 @@
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Project 3: Sharing Dataset on Kaggle
-This project is part of the GA data science immarsive course.
+# Foursquare Scraping
 
 ## Project Description
 Foursquare is a local search-and-discovery mobile app. The app provides personalized recommendations of places to go near a user's current location based on users previous browsing history and check-in history.
