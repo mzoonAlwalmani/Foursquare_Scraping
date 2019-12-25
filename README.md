@@ -1,5 +1,4 @@
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Project 3: Sharing Dataset on Kaggle
-This project is part of the GA data science immarsive course.
+# Foursquare Scraping
 
 ## Project Description
 Foursquare is a local search-and-discovery mobile app. The app provides personalized recommendations of places to go near a user's current location based on users previous browsing history and check-in history.
@@ -9,15 +8,5 @@ The aim of this project is to collect Foursquare data using venues endpoint of F
 See here for more details about venues endpoint : https://developer.foursquare.com/docs/api/venues/details
 
 There is a lot you can do with this data set. you can see what types of venues get more ratings and likes, what categories of venues are more likely to be visited in a certain time, you can study the overall behavior of people in Riyadh city.
-
-### Methods Used
-* API and webscrapping
-
-### Technologies
-* Python
-* Pandas
-* jupyter
-
-
 
  [Dataset on Kaggle](https://www.kaggle.com/mzoonalwalmani/foursquare-venues-riyadh).
